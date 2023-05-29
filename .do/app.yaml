@@ -1,0 +1,8 @@
+name: free-byokapp-xyz
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: byokapp/free
+  name: free-byokapp-xyz
